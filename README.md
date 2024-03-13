@@ -1,6 +1,6 @@
 # Task Management System
 ## Team Members
-Gianna Boudreau
+Gianna Boudreau,
 Elise Brooks
 ### Project Goals
 Problem space: task management, motivation, competition, productivity struggles
